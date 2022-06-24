@@ -2,7 +2,7 @@
 # Hermann Scintillation Grid Illusion
 
 
-In this project, we're going to draw a classic Hermann grid illusion
+In this project, we're going to draw a classic Hermann grid illusion with various sizes
 
 
 
